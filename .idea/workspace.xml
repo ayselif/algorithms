@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf29d7f1-9199-4f8e-981d-5928fa2d24d6" name="Changes" comment="" />
+    <list default="true" id="cf29d7f1-9199-4f8e-981d-5928fa2d24d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BalancedStringAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FancyStringAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HaystackNeedleAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefixAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowerCaseAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumberAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateElementAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveElementAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepetitiveLettersAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffleAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumberAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,5 +48,16 @@
       <updated>1660162601017</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
